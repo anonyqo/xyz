@@ -115,13 +115,13 @@ button.active {
 
 @media (max-width: 480px) {
 	h1 {
-		font-size: 3rem;
+		font-size: 4rem;
 	}
 	#meal {
-		font-size: 2rem;
+		font-size: 3rem;
 	}
 	button {
-		font-size: 0.8rem;
+		font-size: 1.4rem;
 		padding: 5px 10px;
 	}
 	#filters {
