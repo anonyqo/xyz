@@ -125,10 +125,12 @@ button.active {
 		padding: 5px 10px;
 	}
 	#filters {
+		font-size: 2rem
 		flex-direction: column;
 		gap: 10px;
 	}
 	#links {
+		font-size: 2rem
 		flex-direction: column;
 		gap: 10px;
 	}
