@@ -102,10 +102,12 @@ button.active {
 }
 @media (max-width: 768px) {
 	h1 {
-		font-size: 3rem;
+		font-size: 4rem;
+		text-align: center;
 	}
 	#meal {
 		font-size: 3rem;
+		text-align: center;
 	}
 	button {
 		font-size: 2rem;
@@ -134,7 +136,7 @@ button.active {
 		padding: 5px 10px;
 	}
 	#filters {
-		font-size: 1.3rem;
+		font-size: 1.2rem;
 		flex-direction: column;
 		gap: 10px;
 	}
