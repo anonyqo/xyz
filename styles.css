@@ -112,12 +112,13 @@ button.active {
 		font-size: 2rem;
 	}
 	#filters {
-		display: none !important;
+
 		font-size: 1.5rem;
 		flex-direction: column;
 		gap: 10px;
 	}
 	#links {
+				display: none !important;
 		font-size: 2rem
 		gap: 10px;
 	}
