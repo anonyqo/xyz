@@ -113,9 +113,7 @@ button.active {
 		font-size: 2rem;
 	}
 	#filters {
-
 		font-size: 1.5rem;
-		flex-direction: column;
 		gap: 10px;
 	}
 	#links {
@@ -137,7 +135,6 @@ button.active {
 		padding: 5px 10px;
 	}
 	#filters {
-		flex-direction: column;
 		gap: 10px;
 	}
 	#links {
