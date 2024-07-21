@@ -129,6 +129,7 @@ button.active {
 		font-size: 4rem;
 	}
 	#meal {
+		text-align: center;
 		font-size: 3rem;
 	}
 	button {
