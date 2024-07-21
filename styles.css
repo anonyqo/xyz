@@ -111,6 +111,16 @@ button.active {
 	button {
 		font-size: 2rem;
 	}
+	#filters {
+		font-size: 2rem
+		flex-direction: column;
+		gap: 10px;
+	}
+	#links {
+		font-size: 2rem
+		flex-direction: column;
+		gap: 10px;
+	}
 }
 
 @media (max-width: 480px) {
