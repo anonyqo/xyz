@@ -151,7 +151,8 @@ button.active {
 		font-size: 3.5rem;
 	}
 	button {
-		font-size: 2rem;
+		margin-top: -50px;
+		font-size: 1.6rem;
 		padding: 5px 10px;
 	}
 	#filters {
