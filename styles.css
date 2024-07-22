@@ -134,14 +134,7 @@ button.active {
 		font-size: 1.7rem;
 		gap: 10px;
 	}
-	#klik1 {
-		display: none;
-	}
-	#klik2 {
-		height: 0px;
-		display: flex;
-		text-align: center;
-	}
+
 	.klik {
 		font-size: 1.4rem;
 		font-weight: 500;
@@ -170,13 +163,7 @@ button.active {
 		font-size: 1.5rem;
 		gap: 10px;
 	}
-	#klik1 {
-		display: none;
-	}
-	#klik2 {
-		display: flex;
-		text-align: center;
-	}
+
 	.klik {
 		font-size: 1.2rem;
 		margin: 0;
